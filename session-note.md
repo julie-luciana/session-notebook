@@ -13,6 +13,6 @@
 
 3. GitHub
    create a pull request (yellow action box)
-   3erge the pull request 
+   merge the pull request 
      
 
